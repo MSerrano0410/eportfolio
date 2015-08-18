@@ -91,7 +91,7 @@
 							Marvin Serrano<br /><br />
 							P.S. Please enjoy a video by my high school class, that helped inspire me to take this direction with my career, and my life.
 							<div id = "video_div">
-								<iframe width="300" height="300" src="https://www.youtube.com/embed/VDsW3i0DTGk" frameborder="0" allowfullscreen></iframe>
+								<iframe width="250" height="250" src="https://www.youtube.com/embed/VDsW3i0DTGk" frameborder="0" allowfullscreen></iframe>
 							</div>
 							
 						</p>
